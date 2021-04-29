@@ -12,5 +12,4 @@
 整体思路感谢 https://github.com/zhanghai/archexp 
 
 - 使用 Python 脚本自动生成 流水线寄存器模块 和 顶层 PCPU 模块 的代码
-
-TODO: 设计思路（dependency *Stage.v），schematics
+- PPT 看得令人头疼，于是根据最终目标重新自己推导，力求思路清晰、优雅
